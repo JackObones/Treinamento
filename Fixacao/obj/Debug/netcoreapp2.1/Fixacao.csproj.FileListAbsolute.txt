@@ -1,0 +1,11 @@
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\bin\Debug\netcoreapp2.1\Fixacao.deps.json
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\bin\Debug\netcoreapp2.1\Fixacao.runtimeconfig.json
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\bin\Debug\netcoreapp2.1\Fixacao.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\bin\Debug\netcoreapp2.1\Fixacao.dll
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\bin\Debug\netcoreapp2.1\Fixacao.pdb
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\obj\Debug\netcoreapp2.1\Fixacao.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\obj\Debug\netcoreapp2.1\Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\obj\Debug\netcoreapp2.1\Fixacao.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\obj\Debug\netcoreapp2.1\Fixacao.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\obj\Debug\netcoreapp2.1\Fixacao.dll
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 10\Fixacao\Fixacao\obj\Debug\netcoreapp2.1\Fixacao.pdb
